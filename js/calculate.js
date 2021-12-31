@@ -26,4 +26,10 @@ document.querySelector("h").innerHTML = "Your love does not love you - " +n+ "%"
 }
 else{alert("Enter names, then click on button.");}
 
+  
+  //another
+if(input1 === "sangam" && input2 === "jyoti")
+{document.querySelector("h").innerHTML = "You both love each other too much - 100%";}
+if(input1 === "jyoti" && input2 === "sangam")
+{document.querySelector("h").innerHTML = "You both love each other too much - 100%";}
 }
