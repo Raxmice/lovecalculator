@@ -32,4 +32,8 @@ if(input1 === "sangam" && input2 === "jyoti")
 {document.querySelector("h").innerHTML = "You both love each other too much - 100%";}
 if(input1 === "jyoti" && input2 === "sangam")
 {document.querySelector("h").innerHTML = "You both love each other too much - 100%";}
+  if(input1 === "sangam nayak" && input2 === "jyoti sahu")
+{document.querySelector("h").innerHTML = "You both love each other too much - 100%";}
+if(input1 === "jyoti sahu" && input2 === "sangam nayak")
+{document.querySelector("h").innerHTML = "You both love each other too much - 100%";}
 }
