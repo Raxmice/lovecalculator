@@ -387,4 +387,19 @@ text-align: center;
   width: 500px;
   height: 500px;
   }
+    .about{
+    text-align: center;
+    width:850px;
+    margin: 10px auto 20px;
+  }
+  .code{
+    padding: 5px 20px;
+    border-radius: 10px;
+    text-align: left;
+    background-color:#18191c;
+    width:auto;
+    margin: 0 auto;
+    position:relative;
+    top:10px;
+  }
 }
