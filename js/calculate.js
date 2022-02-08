@@ -34,12 +34,12 @@ if(input1 === "Anjali" && input2 === "Sangam")
 {document.querySelector("h").innerHTML = "your relationship will definitely work - 100%";}
 if(input1 === "Sangam" && input2 === "Anjali")
 {document.querySelector("h").innerHTML = "your relationship will definitely work - 100%";}
-if(input1 === "Jyot sahu" && input2 === "Sangam nayak")
-{document.querySelector("h").innerHTML = "You both love each other too much - 100%";}
-if(input1 === "Sangam nayak" && input2 === "Jyot sahu")
-{document.querySelector("h").innerHTML = "You both love each other too much - 100%";}
-if(input1 === "jyot sahu" && input2 === "sangam nayak")
-{document.querySelector("h").innerHTML = "You both love each other too much - 100%";}
-if(input1 === "sangam nayak" && input2 === "jyot sahu")
-{document.querySelector("h").innerHTML = "You both love each other too much - 100%";}
+if(input1 === "Anjali yadaw" && input2 === "Sangam nayak")
+{document.querySelector("h").innerHTML = "your relationship will definitely work - 100%";}
+if(input1 === "Sangam nayak" && input2 === "Anjali yadaw")
+{document.querySelector("h").innerHTML = "your relationship will definitely work - 100%";}
+if(input1 === "anjali yadaw" && input2 === "sangam nayak")
+{document.querySelector("h").innerHTML = "your relationship will definitely work - 100%";}
+if(input1 === "sangam nayak" && input2 === "anjali yadaw")
+{document.querySelector("h").innerHTML = "your relationship will definitely work - 100%";}
 }
