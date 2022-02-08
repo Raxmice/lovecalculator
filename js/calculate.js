@@ -26,20 +26,20 @@ document.querySelector("h").innerHTML = "Your love does not love you - " +n+ "%"
 else{alert("Enter names, then click on button.");}
 
 //another
-if(input1 === "sangam" && input2 === "jyoti")
+if(input1 === "sangam" && input2 === "anjali")
 {document.querySelector("h").innerHTML = "You both love each other too much - 100%";}
-if(input1 === "jyoti" && input2 === "sangam")
+if(input1 === "anjali" && input2 === "sangam")
 {document.querySelector("h").innerHTML = "You both love each other too much - 100%";}
-if(input1 === "Jyoti" && input2 === "Sangam")
+if(input1 === "Anjali" && input2 === "Sangam")
 {document.querySelector("h").innerHTML = "You both love each other too much - 100%";}
-if(input1 === "Sangam" && input2 === "Jyoti")
+if(input1 === "Sangam" && input2 === "Anjali")
 {document.querySelector("h").innerHTML = "You both love each other too much - 100%";}
-if(input1 === "Jyoti sahu" && input2 === "Sangam nayak")
+if(input1 === "Jyot sahu" && input2 === "Sangam nayak")
 {document.querySelector("h").innerHTML = "You both love each other too much - 100%";}
-if(input1 === "Sangam nayak" && input2 === "Jyoti sahu")
+if(input1 === "Sangam nayak" && input2 === "Jyot sahu")
 {document.querySelector("h").innerHTML = "You both love each other too much - 100%";}
-if(input1 === "jyoti sahu" && input2 === "sangam nayak")
+if(input1 === "jyot sahu" && input2 === "sangam nayak")
 {document.querySelector("h").innerHTML = "You both love each other too much - 100%";}
-if(input1 === "sangam nayak" && input2 === "jyoti sahu")
+if(input1 === "sangam nayak" && input2 === "jyot sahu")
 {document.querySelector("h").innerHTML = "You both love each other too much - 100%";}
 }
