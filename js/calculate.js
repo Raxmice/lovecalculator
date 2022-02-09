@@ -27,9 +27,9 @@ else{alert("Enter names, then click on button.");}
 
   //for others
   if(input1 === "Nidhi parganiha" && input2 === "Vinay verma")
-{document.querySelector("h").innerHTML = "your relationship will definitely work - 100%";}
+{document.querySelector("h").innerHTML = "you both love each other soooo much - 100%";}
   if(input1 === "Vinay verma" && input2 === "Nidhi parganiha")
-{document.querySelector("h").innerHTML = "your relationship will definitely work - 100%";}
+{document.querySelector("h").innerHTML = "you both love each other soooo much - 100%";}
   if(input1 === "Vinay" && input2 === "Nidhi")
 {document.querySelector("h").innerHTML = "your relationship will definitely work - 100%";}
   if(input1 === "Nidhi" && input2 === "Vinay")
