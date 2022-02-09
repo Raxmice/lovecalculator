@@ -25,6 +25,20 @@ document.querySelector("h").innerHTML = "Your love does not love you - " +n+ "%"
 }
 else{alert("Enter names, then click on button.");}
 
+  //for others
+  if(input1 === "Nidhi parganiha" && input2 === "Vinay verma")
+{document.querySelector("h").innerHTML = "your relationship will definitely work - 100%";}
+  if(input1 === "Vinay verma" && input2 === "Nidhi parganiha")
+{document.querySelector("h").innerHTML = "your relationship will definitely work - 100%";}
+  if(input1 === "Vinay" && input2 === "Nidhi")
+{document.querySelector("h").innerHTML = "your relationship will definitely work - 100%";}
+  if(input1 === "Nidhi" && input2 === "Vinay")
+{document.querySelector("h").innerHTML = "your relationship will definitely work - 100%";}
+  if(input1 === "vinay" && input2 === "nidhi")
+{document.querySelector("h").innerHTML = "your relationship will definitely work - 100%";}
+  if(input1 === "nidhi" && input2 === "vinay")
+{document.querySelector("h").innerHTML = "your relationship will definitely work - 100%";}
+  
 //another
 if(input1 === "sangam" && input2 === "anjali")
 {document.querySelector("h").innerHTML = "your relationship will definitely work - 100%";}
