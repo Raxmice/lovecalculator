@@ -17,7 +17,7 @@ else if (50 < n && n <= 70 )
 document.querySelector("h").innerHTML = "Ohh your relationship would work - " +n+ "%";}
 else if (30 < n && n <= 50)
 {
-document.querySelector("h").innerHTML = "Noo... your relationship could be in denger - " +n+ "%";}
+document.querySelector("h").innerHTML = "Noo... your relationship could be in danger - " +n+ "%";}
 else if (0 < n && n<=30)
 {
 document.querySelector("h").innerHTML = "Your love does not love you - " +n+ "%";}
