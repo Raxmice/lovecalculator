@@ -26,6 +26,16 @@ document.querySelector("h").innerHTML = "Your love does not love you - " +n+ "%"
 else{alert("Enter names, then click on button.");}
 
   //for others
+if(input1 === "saket" && input2 === "barkha")
+{document.querySelector("h").innerHTML = "your relationship will definitely work - 100%";}
+  if(input1 === "barkha" && input2 === "saket")
+{document.querySelector("h").innerHTML = "your relationship will definitely work - 100%";}
+  if(input1 === "Barkha" && input2 === "Saket")
+{document.querySelector("h").innerHTML = "your relationship will definitely work - 100%";}
+  if(input1 === "Saket" && input2 === "Barkha")
+{document.querySelector("h").innerHTML = "your relationship will definitely work - 100%";}
+  
+
   if(input1 === "Nidhi parganiha" && input2 === "Vinay verma")
 {document.querySelector("h").innerHTML = "you both love each other soooo much - 100%";}
   if(input1 === "Vinay verma" && input2 === "Nidhi parganiha")
